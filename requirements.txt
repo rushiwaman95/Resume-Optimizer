@@ -1,5 +1,5 @@
 streamlit>=1.28.0
 python-docx>=0.8.11
 requests>=2.31.0
-xhtml2pdf>=0.2.15
 bleach>=6.0.0
+reportlab>=4.0.0
