@@ -60,4 +60,10 @@ The application implements:
 - Safe file handling for DOCX documents
 - XSS protection through allowed HTML tags whitelist
 
+## License
 
+[Add your license here]
+
+## Support
+
+[Add support information here]
